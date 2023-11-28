@@ -3,6 +3,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Django + React<br>🌱 I’m currently learning Javascript + NoSQL<br>💬 Ask me about Python, Django, RDBMS, Frontend development, DSA<br>⚡ Fun fact  I thrive on multitasking!<br>😄 Pronouns: he/him<br> 📫 How to reach me: farshadabdulazeez@gmail.com<br><br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=farshadabdulazeez&icon=7&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farshadk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farshad-k-927352271) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farshadabdulazeez.medium.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/farshadabdulazeez)
@@ -27,7 +29,5 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=farshadabdulazeez&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
