@@ -1,4 +1,5 @@
-
+<h1 align="center">Hey 👋, I'm FARSHAD K</h1>
+<h3 align="center">A Passionate Python Full Stack Developer from India </h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 💫 About Me:
 🔭 I’m currently working on Django + React<br>🌱 I’m currently learning Javascript + NoSQL<br>💬 Ask me about Python, Django, RDBMS, Frontend development, DSA<br>⚡ Fun fact  I thrive on multitasking!<br>😄 Pronouns: he/him<br> 📫 How to reach me: farshadabdulazeez@gmail.com<br><br>
