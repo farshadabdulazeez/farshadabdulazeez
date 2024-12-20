@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Python Developer from India </h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 💫 About Me:
-🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Data Visualization<br>💬 Ask me about Python, Django, RDBMS, Frontend development, DSA<br>⚡ Fun fact  I thrive on multitasking!<br>😄 Pronouns: he/him<br> 📫 How to reach me: farshadabdulazeez@gmail.com<br><br>
+🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Deep learning<br>💬 Ask me about Python, Django, RDBMS, Frontend development, DSA<br>⚡ Fun fact  I thrive on multitasking!<br>😄 Pronouns: he/him<br> 📫 How to reach me: farshadabdulazeez@gmail.com<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=farshadabdulazeez&icon=7&color=3)](https://visitcount.itsvg.in)
 
